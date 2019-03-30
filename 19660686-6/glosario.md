@@ -36,7 +36,7 @@ Actualiza los archivos de alguna branch para que estos sean los mismos de la bra
 Es una version paralela del repositorio. Se ubica dentro del repositorio, pero no afecta la "*master branch*", permitientote trabajar libremente sin interrumpir la version principal.[3]
 ### R) Tag
 Es poner etiquetas en el historial para denotar puntos especificos en la historia del repositorio como importantes. [8]
----
+
 ## Source:
 ```
 [1] https://es.wikipedia.org/wiki/Version_control
